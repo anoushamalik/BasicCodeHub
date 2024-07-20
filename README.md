@@ -1,1 +1,1 @@
-# Thia ia my First Basic code Repo
+# This ia my First Basic code Repo
