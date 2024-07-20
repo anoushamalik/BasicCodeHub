@@ -1,1 +1,1 @@
-# This ia my First Basic code Repo
+# This is my First Basic code Repo
